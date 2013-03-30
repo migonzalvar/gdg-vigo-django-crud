@@ -1,0 +1,58 @@
+=================================
+GDG Vigo - Django, de cero a CRUD
+=================================
+
+En este evento contaremos con +Miguel González Álvarez que nos hablará de
+uno de los lenguajes de programación más usados actualmente, Python y del
+framework Django.
+
+Cuando +Miguel González Álvarez descubrió Python allá por el 2002 quedó
+maravillado por la sencillez y la potencia que permitía. Desde entonces lo
+ha utilizado profesionalmente para resolver todo tipo de problemas: scripts
+para administrar sistemas, monitorización, elaboración de documentación,
+automatización de herramientas, datawarehousing y como no, aplicaciones web.
+
+Django es un framework para el desarrollo de aplicaciones web. Su punto
+fuerte es la gran rapidez con la que se pueden crear proyectos sólidos,
+modulares y escalables. Está escrito en Python con lo que hereda todas las
+ventajas de este potente y accesible lenguaje dinámico.
+
+En esta sesión crearemos desde cero una completa aplicación web explicando
+detalladamente cada paso.
+
+Pero no te confíes, aunque empezaremos desde una carpeta vacía iremos
+cogiendo velocidad para revisar varias de las funcionalidades de Django.
+
+Dividiremos la charla-taller en varias partes. Cada parte tendrá una
+introducción teórica, planteamiento de un ejercicio práctico, presentación
+de la solución y, antes de pasar a la siguiente parte, tendremos un poco de
+tiempo para comentarios y preguntas.
+
+Los temas que trataremos son:
+
+1. Creación de un entorno virtual Python
+2. Inicialización de un proyecto Django
+3. Aplicaciones
+4. Modelos
+5. Baterías incluidas: el módulo de administración
+6. Vistas genéricas básicas
+7. Listados
+8. Formularios
+9. Edición de objetos
+10. Autenticación
+11. AJAX
+12. Módulos de terceros
+13. Despliegue en producción
+14. Por donde seguir...
+
+Para poder hacer los ejercicio de este taller necesitas:
+
+- Python. Es necesario tener una versión razonablemente moderna 2.6.5
+  mínimo, 2.7 recomendable. La versión 3.3 también está soportada.
+
+- Virtualenv. Se trata de una aplicación Python que permite crear	entornos
+  de trabajos aislados que permiten instalar distintas versiones de
+  bilbiotecas de manera independiente.
+
+Opcionalmente, si tienes instalado `git` podrás obtener las soluciones a los
+ejercicios, por si te pierdes...
