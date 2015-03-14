@@ -1,0 +1,1 @@
+![https://gdg-vigo-django-crud.googlecode.com/files/django-bloques-v1.png](https://gdg-vigo-django-crud.googlecode.com/files/django-bloques-v1.png)
